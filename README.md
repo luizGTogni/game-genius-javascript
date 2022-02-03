@@ -1,23 +1,15 @@
 # Genius
 
-Você já jogou Genius?
+## Introdução
 
-Genius era um brinquedo muito popular na década de 1980. Distribuído pela Estrela, o brinquedo buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em sequência. Cabia aos jogadores repetir o processo sem errar.
+Nesse projeto o objetivo era criar um jogo como o genius usando Javascript, HTML e CSS conhecimentos básicos de programação web.
 
-- Você pode conferir o resultado final do projeto [clicando aqui]().
+- Esse projeto foi baseado no tutorial do canal [Inkasa Dev](https://github.com/inkasadev/genius-starter-files)
 
-## O que eu aprendi com esse projeto:
+## Quais tecnologias foram utilizadas
 
-- CSS
-  - Flexbox
-  - Pseudo-elementos
-  - Media Queries
-  
-- Javascript
-  - .addEventListener()
-  - .querySelector()
-  - .classList
-  - .forEach()
-  - carregar sons
-  - setTimeout()
-  - setInterval()
+- CSS (Flexbox, Pseudo-elementos, Media Queries)
+- Javascript (DOM, Carregar sons, setTimeout(), setInterval e outras funções)
+- Eu melhorei a parte de responsividade do projeto para mobile deixando o pad no formato da tela e colocando o painel de opções embaixo do pad.
+
+- Quer ver como ficou [Clique aqui](https://luizgtogni.github.io/game-genius-javascript/)
